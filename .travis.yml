@@ -3,6 +3,6 @@ nvm:
  - 0.39
  - node_js
 
-job:
+before_install:
   script:
     node hello.js
