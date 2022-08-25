@@ -3,4 +3,5 @@ nvm:
  - 0.39
  - node_js
 
- echo "Hello World"
+script:
+ console.log("Hello World!")
