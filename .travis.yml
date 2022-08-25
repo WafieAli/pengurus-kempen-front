@@ -1,0 +1,4 @@
+language: node
+vm:
+ - 0.39
+ - node
