@@ -4,5 +4,4 @@ nvm:
  - node_js
 
 install:
-  script:
-    node hello.js
+  script: node hello.js
