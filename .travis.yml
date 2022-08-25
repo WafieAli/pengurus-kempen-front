@@ -1,4 +1,4 @@
-language: node
-vm:
+language: node_js
+nvm:
  - 0.39
- - node
+ - node_js
