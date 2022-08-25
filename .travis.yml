@@ -3,6 +3,6 @@ nvm:
  - 0.39
  - node_js
 
-before_install:
+install:
   script:
     node hello.js
