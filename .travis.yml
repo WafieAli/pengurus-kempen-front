@@ -4,4 +4,4 @@ nvm:
  - node_js
 
 script:
- console.log("Hello World!")
+ node hello.js
