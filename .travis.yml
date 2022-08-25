@@ -3,5 +3,6 @@ nvm:
  - 0.39
  - node_js
 
-script:
- node hello.js
+job:
+  script:
+    node hello.js
